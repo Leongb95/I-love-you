@@ -1,0 +1,8 @@
+COMO FINALIZAR O QR CODE
+
+A página já está pronta com as 5 fotos e a homenagem.
+Para o QR Code funcionar no celular dela, a pasta precisa estar hospedada em algum endereço público (por exemplo, um serviço de hospedagem de site).
+
+Assim que você me mandar o link público da página, eu gero o QR Code definitivo apontando para ele.
+
+Arquivo principal: index.html
